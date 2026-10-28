@@ -39,7 +39,7 @@ https://github.com/LittleBeaverStudio/FundAssistant
 方式一（SkillHub，推荐）：
 
 ```bash
-skillhub install littlebeaver-fund-assistant --dir ~/.workbuddy/skills
+skillhub install littlebeaver-fund-assistant --namespace indiv-littlebeaverstudio --dir ~/.workbuddy/skills
 ```
 
 方式二（GitHub）：
