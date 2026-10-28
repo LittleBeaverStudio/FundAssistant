@@ -1,0 +1,4 @@
+interface:
+  display_name: "小河狸资金助手"
+  short_description: "连接本机小河狸资金助手，查询银行账户余额、收支趋势、流水明细与票款核销"
+  default_prompt: "使用 $littlebeaver-fund-assistant 连接本机小河狸资金助手，汇总并分析我的银行流水。"
